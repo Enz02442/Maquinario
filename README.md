@@ -1,4 +1,4 @@
-# Maquinário
+# Maquinário - Devisate construções
 
 Aplicação cross-platform desenvolvida localmente utilizando
 
