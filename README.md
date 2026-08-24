@@ -2,6 +2,6 @@
 
 Aplicação cross-platform desenvolvida localmente utilizando
 
--  **[Visão Geral do Projeto](docs/home)**
+-  **[Visão Geral do Projeto](docs/Home)**
 
 
