@@ -8,4 +8,7 @@ Aplicação cross-platform desenvolvida localmente utilizando
 O Figma foi produzido com base em algumas lojas de maquinários já existentes como a "MAKITA"(usada bastante na base do projeto), mas também focamos na criatividade junto com a eficiência e velocidade do site.
 
 
-**[Modelo do site feito no Figma](Link_Figma/)**
+-  **[Modelo do site feito no Figma](Link_Figma/)**
+
+
+Usamos cores como Amarelo(alaranjado) por causa dos maquinários que eu sua maioria são dessa cor então trouxemos essa cor para representar os nossos produtos.
